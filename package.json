@@ -1,0 +1,15 @@
+{
+	"author": "Z3T4",
+	"name": "datelog",
+	"description": "Writes to console.log with date and time",
+	"version": "1.0.2",
+	"main": "datelog.js",
+	"keywords": [
+		"log"
+	],
+	"dependencies": {},
+	"repository": {
+		"type" : "git",
+		"url" : "http://github.com/Z3TA/dateLog.git"
+	}
+}
