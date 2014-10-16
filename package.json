@@ -1,6 +1,6 @@
 {
 	"author": "Z3T4",
-	"name": "datelog",
+	"name": "dateLog",
 	"description": "Writes to console.log with date and time",
 	"version": "1.0.2",
 	"main": "dateLog.js",
