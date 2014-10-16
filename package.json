@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Z3T4"
+  },
+  "name": "datelog",
+  "description": "Writes to console.log with date and time",
+  "version": "1.0.3",
+  "main": "datelog.js",
+  "keywords": [
+    "log"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Z3TA/dateLog.git"
+  },
+  "readme": "﻿dateLog\r\n=======\r\n\r\nA simple function for adding date and time stamp to console log in Node JS.",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Z3TA/dateLog/issues"
+  },
+  "_id": "datelog@1.0.2",
+  "_from": "datelog@"
+}
