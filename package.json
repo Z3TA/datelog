@@ -18,7 +18,5 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/Z3TA/dateLog/issues"
-  },
-  "_id": "datelog@1.0.2",
-  "_from": "datelog@"
+  }
 }
