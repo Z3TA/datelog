@@ -3,7 +3,7 @@
 	"name": "datelog",
 	"description": "Writes to console.log with date and time",
 	"version": "1.0.2",
-	"main": "datelog.js",
+	"main": "dateLog.js",
 	"keywords": [
 		"log"
 	],
