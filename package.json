@@ -4,7 +4,7 @@
   },
   "name": "datelog",
   "description": "Writes to console.log with date and time",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "datelog.js",
   "keywords": [
     "log"

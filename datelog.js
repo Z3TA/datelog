@@ -1,6 +1,10 @@
 
 dateLog = function (msg) {
 
+	if(typeof msg != "string") {
+		msg = JSON.stringify(msg);
+	}
+	
 	console.log(myDate() + " " + msg);
 
 	function myDate() {
